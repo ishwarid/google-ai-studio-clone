@@ -44,17 +44,17 @@ A React-based clone of Google AI Studio showcasing core UI and functionality.
 git clone https://github.com/ishwarid/google-ai-studio-clone.git
 cd google-ai-studio-clone
 
-```bash
+
 npm install
 # or
 yarn install
 
-```bash
+
 npm start
 # or
 yarn start
 
-```bash
+
 npm run build
 # or
 yarn build
