@@ -45,16 +45,23 @@ git clone https://github.com/ishwarid/google-ai-studio-clone.git
 cd google-ai-studio-clone
 
 
+### Install dependencies  
 npm install
 # or
 yarn install
 
-
-npm start
+### Run development server  
+npm run start
 # or
 yarn start
 
+### Run tests  
+npm test
+# or
+yarn test
 
+### Build for production  
 npm run build
 # or
 yarn build
+
