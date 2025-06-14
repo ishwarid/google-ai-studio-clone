@@ -84,7 +84,7 @@ const ApiKeyPage = () => {
       <div className="px-2 py-0 text-sm text-zinc-400">
         Remember to use API keys securely. Don't share or embed them in public
         code. Use of Gemini API from a billing-enabled project is subject to{" "}
-        <a href="#" className="text-blue-400 hover:underline">
+        <a href="https://ai.google.dev/gemini-api/docs/pricing" className="text-blue-400 hover:underline">
           pay-as-you-go pricing
         </a>
         .
