@@ -1,33 +1,60 @@
-# Google AI Studio Clone
+# Google AI Studio Clone 🚀
 
-This project is a clone of Google AI Studio, built with React. It aims to replicate some of the core functionalities and user interface of the original Google AI Studio.
+A React-based clone of Google AI Studio showcasing core UI and functionality.
 
 ---
 
-## Features
+## Table of Contents
+
+- [🔍 Features](#-features)  
+- [🛠 Tech Stack](#-tech-stack)  
+- [🚀 Setup & Usage](#-setup--usage)  
+  - [Clone the repo](#clone-the-repo)  
+  - [Install dependencies](#install-dependencies)  
+  - [Run development server](#run-development-server)  
+  - [Run tests](#run-tests)  
+  - [Build for production](#build-for-production)  
+- [🤝 Contributing](#-contributing)  
+- [📄 License](#-license)  
+- [🙏 Acknowledgements](#-acknowledgements)
+
+---
+
+## 🔍 Features
 
 - **Feature A**: Brief description  
 - **Feature B**: Brief description  
-- *(Add as many features as you'd like)*
+*(List key implemented features here)*
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- **Frontend:** React  
-- **Styling:** *(e.g., CSS Modules, Styled Components, Tailwind CSS)*  
-- **State Management:** *(e.g., Context API, Redux, Zustand)*  
-- **Build Tool:** Create React App
+- **Frontend**: React  
+- **Styling**: *(e.g., CSS Modules, Tailwind CSS)*  
+- **State Management**: *(e.g., Context API, Redux)*  
+- **Build Tool**: Create React App
 
 ---
 
-## Getting Started
+## 🚀 Setup & Usage
 
-Follow these steps to get a local development setup running:
-
-### Prerequisites
-
-Ensure you have Node.js and npm (or Yarn) installed.
+### Clone the repo  
+```bash
+git clone https://github.com/ishwarid/google-ai-studio-clone.git
+cd google-ai-studio-clone
 
 ```bash
-npm install npm@latest -g
+npm install
+# or
+yarn install
+
+```bash
+npm start
+# or
+yarn start
+
+```bash
+npm run build
+# or
+yarn build
